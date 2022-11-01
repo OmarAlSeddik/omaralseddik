@@ -3,17 +3,13 @@
 <h3 align="center">A self-learning junior front-end developer.</h3>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=omaralseddik&show_icons=true&theme=dark&locale=en&layout=compact" alt="omaralseddik" />
 
-- I’m currently progressing through [AlgoExpert. (TS)](https://github.com/OmarAlSeddik/algo-expert)
+- I’m actively working on Frontend Mentor projects.
 
-- And solving [Codewars Kata. (TS)](https://github.com/OmarAlSeddik/code-wars)
-
-- And working occasionally on [a side project.](https://github.com/OmarAlSeddik/e-commerce-react-redux-graphql)
-
-- I'm currently studying **Algorithms and Data Structure.**
+- I'm also progressing through FrontendExpert and AlgoExpert.
 
 - How to reach me --> **omaralseddik@gmail.com**
 
-- This Readme was last updated on **the 3rd of October, 2022.**
+- This Readme was last updated on **the 1st of November, 2022.**
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=omaralseddik&theme=dark" alt="omaralseddik" />
 
