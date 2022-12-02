@@ -3,13 +3,15 @@
 <h3 align="center">A self-learning junior front-end developer.</h3>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=omaralseddik&show_icons=true&theme=dark&locale=en&layout=compact" alt="omaralseddik" />
 
-- I’m actively working on Frontend Mentor projects.
+- I'm currently working on a [fullstack Chat App](https://github.com/OmarAlSeddik/another-chat-app-attempt) utilizing Next.js and Firebase.
+
+- I’m ocassionally working on [Frontend Mentor](https://www.frontendmentor.io/) projects.
 
 - I'm also progressing through FrontendExpert and AlgoExpert.
 
 - How to reach me --> **omaralseddik@gmail.com**
 
-- This Readme was last updated on **the 1st of November, 2022.**
+- This Readme was last updated on **the 2nd of December, 2022.**
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=omaralseddik&theme=dark" alt="omaralseddik" />
 
